@@ -93,6 +93,6 @@ def num_max_min(a, b, c):
     else:
         print("Los numeros son iguales")
 
-num_max_min(11,11,11)
+print(num_max_min(11,11,11))
 
 """
